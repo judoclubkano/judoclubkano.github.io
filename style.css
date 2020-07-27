@@ -4,9 +4,9 @@
 }
 
 
-.gallery{
+/*.gallery{
     background-color:grey;
-}
+}*/
 
 
 .gallery img {
@@ -14,8 +14,8 @@
 }
 
 
-.gallary img:hover{
-    opacity: .5;
+.gallery img:hover{
+    opacity: .9;
 }
 
 
@@ -23,7 +23,7 @@
 .logo img{
     position: absolute;
     height: 50px;
-    opacity: .7;
+/*    opacity: .7;*/
 }
 
 
@@ -162,7 +162,7 @@ input[name="r"]{
     text-transform: uppercase;
     color: #000;
     margin: 20px;
-    background-color: rgba(128, 128, 128, 0.6);
+    /*background-color: rgba(128, 128, 128, 0.6);*/
 }
 
 
@@ -177,7 +177,7 @@ nav:before {
     display: block;
     height: 50px;
     width: 100%;
-    background: #808080;
+    background: #fff;
     position: absolute;
     left: 0;
     z-index: -1;
@@ -197,7 +197,8 @@ ul li {
 
 
 ul li a {
-            color: #ffffff;
+            color: black;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             display: block;
             height: 50px;
             padding: 0 30px;
@@ -208,6 +209,8 @@ ul li a {
 
 
 ul li a:hover {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
     background: red
 }
 
