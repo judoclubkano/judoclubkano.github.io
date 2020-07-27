@@ -32,7 +32,7 @@ a{
 }
 
 body{
-    background-color: papayawhip;
+    background-color: black;
 }
 
 
@@ -167,7 +167,7 @@ input[name="r"]{
 
 
 nav {
-    width: 50%;
+    width: 1000px;
     margin: 0 auto;
 }
 
@@ -267,5 +267,5 @@ footer .social{
 
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #000;
+    color: #fff;
 }
