@@ -4,6 +4,22 @@
 }
 
 
+.gallery{
+    background-color:grey;
+}
+
+
+.gallery img {
+    width: 33%;
+}
+
+
+.gallary img:hover{
+    opacity: .5;
+}
+
+
+
 .logo img{
     position: absolute;
     height: 50px;
@@ -15,8 +31,8 @@ a{
     text-decoration:none;
 }
 
-body {
-    /*background-image: url('picturesforsite/background.PNG');*/
+body{
+    background-color: papayawhip;
 }
 
 
@@ -151,7 +167,7 @@ input[name="r"]{
 
 
 nav {
-    width: 960px;
+    width: 50%;
     margin: 0 auto;
 }
 

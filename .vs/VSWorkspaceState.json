@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\picturesforsite",
+    "\\picturesforsite\\gallery"
   ],
-  "SelectedNode": "\\teacher.html",
+  "SelectedNode": "\\style.css",
   "PreviewInSolutionExplorer": false
 }
